@@ -53,6 +53,8 @@ The fine-tuning of the GPT-4o model leverages OpenAI's cloud infrastructure to e
 - **OpenAI API**: Utilized for model fine-tuning and management through cloud infrastructure.
 - **Google Colab (Optional)**: Used for initial dataset processing and preparation, but the actual fine-tuning is done on OpenAI’s cloud servers.
 
+For more information refer to [OpenAI Documentation](https://platform.openai.com/docs/guides/fine-tuning)
+
 ## Results and Discussion
 
 The fine-tuning of the GPT-4o model has demonstrated significant improvements in its ability to handle logical reasoning tasks. This section provides an overview of the results achieved and their implications.
