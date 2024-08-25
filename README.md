@@ -4,25 +4,15 @@ This repository contains a script for fine-tuning the GPT-4o model to enhance it
 ## About Dataset
 [garage-bAInd/Open-Platypus](https://huggingface.co/datasets/garage-bAInd/Open-Platypus)
 This dataset is focused on improving LLM logical reasoning skills and was used to train the Platypus2 models. It is comprised of the following datasets, which were filtered using keyword search and then Sentence Transformers to remove questions with a similarity above 80%:
-|-------------------------------------------------------|-------------------------------------------------------------------------|
-| Dataset Name                                          | License Type                                                            |
-|-------------------------------------------------------|-------------------------------------------------------------------------|
-| PRM800K                                               | MIT                                                                     | 
-| MATH                                                  | MIT                                                                     |
-| ScienceQA                                             | Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International |
-| SciBench                                              | MIT                                                                     |
-| ReClor                                                | Non-commercial                                                          | 
-| TheoremQA                                             | MIT                                                                     |
-| nuprl/leetcode-solutions-python-testgen-gpt4          | None listed                                                             |
-| jondurbin/airoboros-gpt4-1.4.1                        | Other                                                                   |
-| TigerResearch/tigerbot-kaggle-leetcodesolutions-en-2k | Apache-2.0                                                              |
-| ARB                                                   | CC BY 4.0                                                               |
-| timdettmers/openassistant-guanaco                     | Apache-2.0                                                              |
-|---------------------------------------------------------------------------------------------------------------------------------|
+<div align='centre'>
+  <img src="https://github.com/user-attachments/assets/c81d2fd1-d9cd-49fb-a0ed-d14bf884379a" alt="Dataset Image" />
+</div>
+![image]()
+
 
 ## GPT-4o
 <div align='centre'>
-  ![image](https://github.com/user-attachments/assets/b6c9776f-ca51-41e2-9300-e4e8f97c0dbc)
+  <img src="https://github.com/user-attachments/assets/b6c9776f-ca51-41e2-9300-e4e8f97c0dbc" alt="Dataset Image" />
 </div>
 
 GPT-4o is a state-of-the-art generative AI model designed to handle a wide range of text-based tasks with enhanced logical reasoning capabilities. It is a variant of OpenAI's GPT-4, specifically fine-tuned to improve its performance on complex logical queries and structured prompts.
