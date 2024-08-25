@@ -1,4 +1,9 @@
 # GPT-4o Fine-Tuning for Logical Reasoning
+<div align='centre'>
+  <img src="https://github.com/user-attachments/assets/91491d9b-f34d-4d2e-8c85-dcfb1fbb942c" alt="Dataset Image" />
+</div>
+
+
 This repository contains a script for fine-tuning the GPT-4o model to enhance its logical reasoning skills. The fine-tuning process leverages a custom dataset and the OpenAI API to improve the model's ability to handle complex logical queries.
 
 ## About Dataset
